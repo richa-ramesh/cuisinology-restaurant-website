@@ -151,7 +151,6 @@ Submit customer feedback
 This project was developed as part of Web Technologies coursework by:
 
 - **Richa Rameshkrishna** - [GitHub](https://github.com/richa-ramesh) | [LinkedIn](https://linkedin.com/in/richa-ramesh)
-- Sejal Singhania
 - Apoorva Sarvade
 
 ### My Contributions
@@ -163,7 +162,6 @@ This project was developed as part of Web Technologies coursework by:
 
 ## 🚀 Future Enhancements
 
-- [ ] User authentication (login/register)
 - [ ] Online ordering system
 - [ ] Payment gateway integration
 - [ ] Admin dashboard for feedback analytics
@@ -172,10 +170,6 @@ This project was developed as part of Web Technologies coursework by:
 - [ ] Email confirmation for feedback submissions
 - [ ] Mobile app version
 
-## 🐛 Known Issues
-
-- MongoDB connection string needs to be updated in `.env`
-- Some images may need optimization for faster loading
 
 ## 📝 License
 
@@ -188,7 +182,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - LinkedIn: [linkedin.com/in/richa-ramesh](https://linkedin.com/in/richa-ramesh)
 - GitHub: [github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Bootstrap for responsive design framework
 - MongoDB for database solution
@@ -196,5 +190,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Our instructors for guidance throughout the project
 
 ---
-
-⭐ If you found this project helpful, please give it a star!
