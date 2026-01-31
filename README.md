@@ -2,7 +2,7 @@
 
 A full-stack restaurant website featuring 8 international cuisines with interactive menu display, customer feedback system, and responsive design built with React and Node.js.
 
-![Cuisinology Homepage](screenshots/homepage.png)
+![Cuisinology Homepage](/homepage)
 
 ## 🍽️ Features
 
