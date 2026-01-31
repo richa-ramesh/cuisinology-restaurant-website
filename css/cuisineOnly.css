@@ -1,0 +1,49 @@
+img {
+  width: 250px;
+  height: 250px;
+}
+
+
+.wrapper .main_content .info .cuisine {
+  width: 550px;
+  min-width: 300px;
+  padding: 20px;
+  margin: 30px auto;
+  background-color: #FFF;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, .1);
+  overflow: hidden;
+}
+
+
+.cuisine-photo {
+  float: left;
+  width: 40%;
+  margin-right: 15px;
+}
+
+.cuisine-name {
+  font-size: 1.4rem;
+  font-weight: normal;
+  margin: 0 0 1rem 0;
+}
+
+.cuisine p{
+   font-size: 0.7rem ;
+   font-weight: normal;
+}
+
+.foods-list {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 17px;
+  font-size: .85rem;
+  line-height: 1.5;
+}
+
+.footer {
+  font-size: .7rem;
+  color: #888;
+  text-align: center;
+  margin: 0;
+}
