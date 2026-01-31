@@ -113,16 +113,6 @@ cuisinology-restaurant-website/
 7. **Mexican** - Nachos, Tacos, Burritos, Churros
 8. **Indonesian** - Nasi Goreng, Satay, Klepon
 
-## 📸 Screenshots
-
-### Homepage
-![Homepage](screenshots/homepage.png)
-
-### Menu Page
-![Menu](screenshots/menu.png)
-
-### Feedback Form
-![Feedback](screenshots/feedback.png)
 
 ## 🌐 API Endpoints
 
